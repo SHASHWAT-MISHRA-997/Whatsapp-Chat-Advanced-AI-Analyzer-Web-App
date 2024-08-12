@@ -29,7 +29,7 @@ Helper.py: A module containing functions for extracting various features from th
 Contributions are welcome! If you find any issues or have suggestions for new features, please open an issue or submit a pull request.
 
 ## License:
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 
 ## Contact:
 Shashwat Mishra
