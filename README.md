@@ -22,7 +22,9 @@ Upload a WhatsApp chat file (.txt, .csv, or .xlsx) and explore the various visua
 
 ## Files:
 app.py: The main Streamlit app file.
+
 Preprocessor.py: A module containing functions for preprocessing the WhatsApp chat data.
+
 Helper.py: A module containing functions for extracting various features from the WhatsApp chat data.
 
 ## Contributing:
