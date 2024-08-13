@@ -14,7 +14,7 @@ Python 3.7 or higher
 Streamlit 1.10.0 or higher
 pandas, numpy, matplotlib, seaborn, plotly, and other required libraries
 
-## Usage
+## Usage:
 Clone the repository to your local machine.
 Install the required libraries using pip install -r requirements.txt.
 Run the app using streamlit run app.py.
