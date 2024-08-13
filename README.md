@@ -21,7 +21,7 @@ Run the app using streamlit run app.py.
 Upload a WhatsApp chat file (.txt, .csv, or .xlsx) and explore the various visualizations and statistics to gain insights into the chat data.
 
 ## Files:
-app.py: The main Streamlit app file.
+App.py: The main Streamlit App file.
 
 Preprocessor.py: A module containing functions for preprocessing the WhatsApp chat data.
 
