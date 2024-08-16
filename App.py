@@ -546,8 +546,8 @@ with tabs[10]:
 with tabs[11]:
     st.title("𝐀𝐛𝐨𝐮𝐭 𝐌𝐞🙎")
 
-    st.write("My name is Shashwat Mishra, and I'm Completed my Btech in Robotics and Automation.")
-    st.write("I'm passionate about machine learning, natural language processing, and data analysis.")
+    st.write("My name is Shashwat Mishra and I'm Completed my Btech in Robotics and Automation.")
+    st.write("I'm passionate about Machine Learning, Natural Language Processing, Generative AI and Data Analysis.")
     linkedin_url = "https://www.linkedin.com/in/sm980"  
     st.markdown(f"[LinkedIn Profile]({linkedin_url})", unsafe_allow_html=True)
     st.write("You can find me on LinkedIn by clicking the link above.")
