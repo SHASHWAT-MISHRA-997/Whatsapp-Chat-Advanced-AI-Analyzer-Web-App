@@ -27,6 +27,13 @@ Preprocessor.py: A module containing functions for preprocessing the WhatsApp ch
 
 Helper.py: A module containing functions for extracting various features from the WhatsApp chat data.
 
+## 🎥 Working Video
+
+<a href="https://youtu.be/1nuEknaD528">
+    <img src="https://img.youtube.com/vi/1nuEknaD528/0.jpg" alt="Watch the video" style="display: block; margin: 0 auto; width: 90%; max-width: 1000px;" />
+</a>
+
+
 ## Contributing:
 Contributions are welcome! If you find any issues or have suggestions for new features, please open an issue or submit a pull request.
 
